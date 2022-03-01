@@ -46,7 +46,7 @@ Organizando as demandas com trello
 
 
 ## Resultado final GitPages
-Link: htps://ifeslopes.github.io/challenge_frontend_portifolio/
+Link: https://ifeslopes.github.io/challenge_frontend_portifolio/
 ### inicio
 ![Screenshot](https://github.com/ifeslopes/challenge_frontend_portifolio/blob/main/images/readme_fotos/inicio.png)
 ### Skills e Hobbies
