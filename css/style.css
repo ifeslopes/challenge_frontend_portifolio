@@ -322,7 +322,7 @@
     height: 30vh;
 }
 
-.enviarMsj {
+.enviarMsg {
     width: 133px;
     height: 40px;
     margin-top: 2vh;
@@ -333,11 +333,11 @@
     cursor: pointer;
 }
 
-.enviarMsj:hover {
+.enviarMsg:hover {
     filter: brightness(105%);
 }
 
-.enviarMsj:active {
+.enviarMsg:active {
     box-shadow:none;
 }
 
@@ -370,6 +370,23 @@ h6 {
 }
 button{
     border-radius: 30px;
+}
+ .input-formcontainer--invalida .input {
+    border: 1px solid #df2525;
+    border-radius: 7px;
+}
+
+.input-mensagem-erro{
+   
+    
+    display: none;
+    
+}
+.input-formcontainer--invalida .input-mensagem-erro {
+    color: #df2525;
+    display: block;
+    margin: 0.5rem;
+    padding: 0.5rem;
 }
 
 /*Media queries*/
